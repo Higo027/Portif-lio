@@ -25,7 +25,7 @@ body{
     align-items: center;
     height: 8vh;
     width: 4%;
-    background-image: url(../images/logo.png);
+    background-image: url(logo.png);
     background-size: 100%; 
     margin-left: -1%;
   }
@@ -65,7 +65,7 @@ body{
   }
 
   #theme {
-    background-image: url(../images/lua.png);
+    background-image: url(lua.png);
     height: 100%;
     width: 1.5%;
     background-size: 100%;
