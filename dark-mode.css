@@ -7,7 +7,7 @@
 }
 
 .dark-mode .logo{
-    background-image: url(../images/logod.png);
+    background-image: url(logod.png);
 }
 
 .dark-mode a{
@@ -20,6 +20,6 @@
 }
 
 .dark-mode #theme{
-    background-image: url(../images/sol.png);
+    background-image: url(sol.png);
 }
 
